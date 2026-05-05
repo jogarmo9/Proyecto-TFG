@@ -16,6 +16,9 @@ ENV/
 # Notebooks
 .ipynb_checkpoints
 
+# Documentation and plans
+plan_*.md
+
 # OS
 .DS_Store
 Thumbs.db

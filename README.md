@@ -23,20 +23,27 @@ Proyecto/
 │   ├── 03_maps.ipynb     # Visualización espacial e interactiva (Folium)
 │   └── 04_hypothesis.ipynb # Pruebas estadísticas y validación de hipótesis
 ├── outputs/
-│   ├── figures/          # Gráficos de distribución, boxplots, etc.
-│   └── maps/             # Mapas interactivos en formato .html
-├── plan_etl_tfg.md       # Hoja de ruta del proceso de datos
-├── plan_analisis_tfg.md  # Hoja de ruta del análisis espacial
+│   ├── figures/          # Gráficos de distribución, boxplots, etc. (Ignorado)
+│   └── maps/             # Mapas interactivos en formato .html (Ignorado)
+├── requirements.txt      # Dependencias del proyecto
 └── README.md
 ```
 
 ## 🛠️ Instalación
 
-1. Clonar el repositorio.
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/jogarmo9/Proyecto-TFG.git
+   cd Proyecto-TFG
+   ```
 2. Instalar las dependencias necesarias:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. (Opcional) Crear las carpetas locales necesarias si no existen:
+   ```bash
+   mkdir data outputs
+   ```
 
 ## 📈 Flujo de Trabajo
 
