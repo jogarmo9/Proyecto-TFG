@@ -1,0 +1,11 @@
+pandas
+numpy
+folium
+matplotlib
+seaborn
+scipy
+pyarrow
+fastparquet
+scikit-learn
+ipykernel
+gpxpy

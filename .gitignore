@@ -1,0 +1,21 @@
+# Data and large files
+data/
+audios/
+outputs/
+scratch/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Notebooks
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
