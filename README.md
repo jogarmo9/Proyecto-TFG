@@ -40,9 +40,9 @@ Proyecto/
    ```bash
    pip install -r requirements.txt
    ```
-3. (Opcional) Crear las carpetas locales necesarias si no existen:
+3. (Opcional) Crear carpetas locales ignoradas si no existen:
    ```bash
-   mkdir data outputs
+   mkdir outputs
    ```
 
 ## 📈 Flujo de Trabajo
