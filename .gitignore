@@ -18,6 +18,7 @@ ENV/
 
 # Documentation and plans
 plan_*.md
+scripts/
 
 # OS
 .DS_Store
