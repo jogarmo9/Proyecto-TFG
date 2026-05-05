@@ -20,8 +20,7 @@ Proyecto/
 ├── notebooks/
 │   ├── 01_etl.ipynb      # Extracción, Transformación y Carga de datos
 │   ├── 02_analysis.ipynb # Análisis estadístico, filtrado y descriptivo
-│   ├── 03_maps.ipynb     # Visualización espacial e interactiva (Folium)
-│   └── 04_hypothesis.ipynb # Pruebas estadísticas y validación de hipótesis
+│   └── 03_maps.ipynb     # Visualización espacial e interactiva (Folium)
 ├── outputs/
 │   ├── figures/          # Gráficos de distribución, boxplots, etc. (Ignorado)
 │   └── maps/             # Mapas interactivos en formato .html (Ignorado)
@@ -53,7 +52,6 @@ Proyecto/
     - Mapas de calor generales.
     - Mapas segmentados por intensidad de ruido.
     - Dashboard multitemporal para comparar fechas.
-4. **Hipótesis (`04_hypothesis.ipynb`)**: Realiza el cruce final de datos para confirmar si los eventos se agrupan en zonas específicas (intersecciones, hospitales, etc.).
 
 ## 📊 Resultados Esperados
 
